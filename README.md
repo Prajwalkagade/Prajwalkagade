@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Prajwalkagade</h1>
+<h1 align="center">👋 Hi, I'm Prajwal kagade</h1>
 
 <p align="center">
   <em>Aspiring AI Engineer • Data Analyst • Lifelong Learner</em>
