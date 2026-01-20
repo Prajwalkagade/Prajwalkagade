@@ -42,20 +42,31 @@
 
 
 #### 🔹 Concepts & Tools  
+<table>
+  <tr>
+    <td valign="top">
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Artificial Intelligence](https://img.shields.io/badge/AI-FF4088?style=for-the-badge&logo=openai&logoColor=white)  
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4A90E2?style=for-the-badge&logo=databricks&logoColor=white) 
-![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-6A1B9A?style=for-the-badge&logo=python&logoColor=white)
-![Exploratory Data Analysis (EDA)](https://img.shields.io/badge/Exploratory%20Data%20Analysis%20(EDA)-0288D1?style=for-the-badge&logo=python&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-007ACC?style=for-the-badge&logo=openai&logoColor=white)  
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4A90E2?style=for-the-badge&logo=databricks&logoColor=white)  
+![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-6A1B9A?style=for-the-badge&logo=python&logoColor=white)  
+
+  </td>
+  <td valign="top" style="padding-left:40px;">
+
+![Exploratory Data Analysis (EDA)](https://img.shields.io/badge/Exploratory%20Data%20Analysis%20(EDA)-0288D1?style=for-the-badge&logo=python&logoColor=white)  
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-00BFA5?style=for-the-badge&logo=chartdotjs&logoColor=white)  
 ![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=oracle&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+  </td>
+  </tr>
+</table>
+
 
 ### 🎯 What I’m Working On
 
