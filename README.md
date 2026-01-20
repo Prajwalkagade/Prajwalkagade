@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Prajwal Kagade</h1>
+<h1 align="center">Hi, I'm Prajwal Kagade</h1>
 
 <p align="center">
   <em>Python Developer • Data Analyst • AI Enthusiast</em>
@@ -10,7 +10,7 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 - 🎯 Focused on **Data Analytics**, **Python Development**, and **AI**
 - 📊 Skilled in transforming data into dashboards, insights, and reports
@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools  
+###  Tech Stack & Tools  
 
 #### 🔹 Programming & Query Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -67,7 +67,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prajwalkagade&show_icons=true&theme=tokyonight" width="48%" />
